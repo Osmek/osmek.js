@@ -3,6 +3,10 @@ logs
 *.log
 npm-debug.log*
 
+### Osmek ###
+osmek_cache/*
+!osmek_cache/README.md
+
 # Runtime data
 pids
 *.pid

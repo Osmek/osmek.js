@@ -1,0 +1,26 @@
+{
+  "name": "osmek.js",
+  "version": "1.0.0",
+  "description": "Osmek Javascript API library",
+  "main": "Osmek.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Osmek/osmek.js.git"
+  },
+  "keywords": [
+    "Osmek",
+    "API"
+  ],
+  "author": "Matt McCloskey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Osmek/osmek.js/issues"
+  },
+  "homepage": "https://github.com/Osmek/osmek.js#readme",
+  "dependencies": {
+    "md5": "^2.2.1"
+  }
+}

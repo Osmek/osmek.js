@@ -1,2 +1,2 @@
-# osmek-api-js
+# Osmek.js
 Javascript Osmek API Library
